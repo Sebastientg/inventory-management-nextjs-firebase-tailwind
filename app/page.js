@@ -23,6 +23,7 @@ export default function Home() {
     setInventory(inventoryList);
   };
 
+  // add item
   const addItem = async (item) => {
     const docRef = doc(collection(firestore, "inventory"), item);
     const docSnap = await getDoc(docRef);
@@ -37,6 +38,7 @@ export default function Home() {
     await updateInventory();
   };
 
+  // remove item
   const removeItem = async (item) => {
     const docRef = doc(collection(firestore, "inventory"), item);
     const docSnap = await getDoc(docRef);
@@ -60,6 +62,7 @@ export default function Home() {
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
 
+  // style 
   return (
     <Box
       width="100vw"
