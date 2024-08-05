@@ -12,7 +12,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/inventory-management-system.git
+git clone https://github.com/Sebastientg/inventory-management-nextjs-firebase-tailwind.git
 cd inventory-management-system
 ```
 
