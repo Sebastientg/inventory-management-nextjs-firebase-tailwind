@@ -3,18 +3,18 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Features
 
-- ***Add and Remove Inventory Items***: Easily manage your inventory with the ability to add and remove items.
-- ***Real-Time Updates***: See changes instantly as you modify the inventory.
-- ***Responsive Design***: A user-friendly interface designed to work on various devices.
+- **Add and Remove Inventory Items**: Easily manage your inventory with the ability to add and remove items.
+- **Real-Time Updates**: See changes instantly as you modify the inventory.
+- **Responsive Design**: A user-friendly interface designed to work on various devices.
 
 ## Getting Started
 
 1. Clone the repository
 
-'''
+```
 git clone https://github.com/your-username/inventory-management-system.git
 cd inventory-management-system
-'''
+```
 
 2. Run the development server:
 
