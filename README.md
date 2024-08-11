@@ -9,7 +9,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-1. Clone the repository
+1. Clone the repository.
 
 ```
 git clone https://github.com/Sebastientg/inventory-management-nextjs-firebase-tailwind.git
